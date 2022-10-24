@@ -1,0 +1,28 @@
+{
+  "name": "TronWeb",
+  "version": "1.0.4",
+  "summary": "TRX Transfer/ TRC20 Transfer/ Get TRX Balance/ TRC20 Balance with Swift.",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n          English:TRX Transfer/ TRC20 Transfer/ Get TRX Balance/ TRC20 Balance with Swift.n.\nChinese :很方便的进行波场TRX 转账、TRC20代币转账，查询TRX 余额、TRC20代币余额等等.",
+  "homepage": "https://github.com/james19870606/TronWeb",
+  "license": "MIT",
+  "authors": {
+    "james19870606": "james19870606@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/TronWeb/1.0.4/zip",
+    "type": "zip"
+  },
+  "source_files": "TronWeb",
+  "resources": [
+    "TronWeb.framework/Resources/TronWeb.bundle",
+    "TronWeb.framework/Versions/A/Resources/TronWeb.bundle"
+  ],
+  "frameworks": "WebKit",
+  "requires_arc": true,
+  "swift_versions": "5.0",
+  "vendored_frameworks": "TronWeb.framework",
+  "swift_version": "5.0"
+}
