@@ -1,0 +1,23 @@
+{
+  "name": "SDBridgeOC",
+  "version": "1.0.5",
+  "summary": "Simple Design for Objective-C bridge with Javascript. Also can get js console.log.",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n          English:Simple Design for Objective-C bridge with Javascript. Also can get js console.log.\nChinese :更简单、更轻、更易使用的Objective-C和 JavaScript交互框架.",
+  "homepage": "https://github.com/SDBridge/SDBridgeOC",
+  "license": "MIT",
+  "authors": {
+    "housenkui": "housenkui@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/SDBridgeOC/1.0.5/zip",
+    "type": "zip"
+  },
+  "source_files": "bin_SDBridgeOC_1.0.5/Headers/*",
+  "frameworks": "WebKit",
+  "requires_arc": true,
+  "public_header_files": "bin_SDBridgeOC_1.0.5/Headers/*.h",
+  "vendored_libraries": "bin_SDBridgeOC_1.0.5/*.a"
+}
