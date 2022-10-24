@@ -1,0 +1,24 @@
+{
+  "name": "SDBridgeSwift",
+  "version": "1.1.0",
+  "summary": "Simple Design for Swift bridge with Javascript. Also can get js console.log.",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n          English:Simple Design for Swift bridge with Javascript. Also can get js console.log.\nChinese :更简单、更轻、更易使用的Swift和 JavaScript交互框架.",
+  "homepage": "https://github.com/SDBridge/SDBridgeSwift",
+  "license": "MIT",
+  "authors": {
+    "housenkui": "housenkui@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/SDBridgeSwift/1.1.0/zip",
+    "type": "zip"
+  },
+  "source_files": "WebViewJavascriptBridge",
+  "frameworks": "WebKit",
+  "requires_arc": true,
+  "swift_versions": "5.0",
+  "vendored_frameworks": "SDBridgeSwift.framework",
+  "swift_version": "5.0"
+}
